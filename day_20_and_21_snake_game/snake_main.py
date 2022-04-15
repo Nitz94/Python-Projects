@@ -56,7 +56,7 @@ while game_is_on:
     # Detect collision with tail
     for segment in snake.segments[1:]:    # checking if snake.head is the first segment
 
-        if snake.head.distance(segment[1:]) < 10:   # checking if the distance from head and another segment
+        if snake.head.distance(segment) < 10:   # checking if the distance from head and another segment
             scoreboard.game_over()
 
 
