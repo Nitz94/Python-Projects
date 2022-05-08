@@ -1,0 +1,4 @@
+US States Game
+player guesses and types the names of the states. if the names are correct it will show up on the map.
+uses data from other files for accessing the names and coordinates of the states.
+saves names of states other than the ones users guessed into another file
