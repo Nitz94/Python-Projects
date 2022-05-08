@@ -1,1 +1,2 @@
-
+improved snake game 
+added function to save high score to a file, update it and access it every time the game runs.
