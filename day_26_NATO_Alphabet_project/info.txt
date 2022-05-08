@@ -1,0 +1,1 @@
+takes user input and displayes respective NATO phonetic alphabets for each corresponding letters.
