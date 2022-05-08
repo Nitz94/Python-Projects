@@ -1,1 +1,2 @@
-
+mail merge project
+using files from different directoreis and mergimg message letter
