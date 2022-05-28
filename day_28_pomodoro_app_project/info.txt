@@ -1,1 +1,3 @@
+Pomododo App
 
+allows the user to set remainders to take short breaks after each 20 minutes of work time to increase focus and productivity
