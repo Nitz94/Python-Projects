@@ -1,1 +1,2 @@
 
+a gui based app to generate and store email/userid and passwords localy in the system
