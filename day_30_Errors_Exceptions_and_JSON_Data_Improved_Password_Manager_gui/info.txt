@@ -1,0 +1,1 @@
+added improved password manager gui with error and exception handling
