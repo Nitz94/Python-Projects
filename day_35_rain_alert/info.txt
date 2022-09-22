@@ -1,0 +1,1 @@
+checks the weather and gives an accurate rain alert to user
