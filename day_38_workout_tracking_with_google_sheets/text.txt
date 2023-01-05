@@ -1,0 +1,4 @@
+{'exercises': [{'tag_id': 317, 'user_input': 'ran', 'duration_min': 40.02, 'met': 9.8, 'nf_calories': 457.56,
+ 'photo': {'highres': 'https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_highres.jpg',
+  'thumb': 'https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_thumb.jpg', 'is_user_uploaded': False},
+  'compendium_code': 12050, 'name': 'running', 'description': None, 'benefits': None}]}
