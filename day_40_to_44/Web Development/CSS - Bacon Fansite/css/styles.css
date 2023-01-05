@@ -1,0 +1,41 @@
+/****************************** TAG SELECTORS ***************************/
+
+body {
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h1 {
+    
+    font-size: 200px;
+}
+
+p {
+    font-size: 50px;
+    
+}
+
+img {
+    background-color: brown;
+}
+
+/**************************** CLASS SELECTORS ****************************/
+
+.para1 {
+    color: red;
+}
+
+.para2 {
+    color: grey;
+}
+
+.para3 {
+    color: black;
+}
+
+/**************************** ID SELECTORS ****************************/
+#heading {
+    color:darkgreen;
+}
+
